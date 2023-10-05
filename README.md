@@ -1,7 +1,7 @@
 # Hi! My name is Surachet Pichaiwattanaporn
 ## Internship in Front-end Developer position
 
-As a developer, I am motivated. I enjoy creating user interfaces and want to make sure they function the way they are supposed to. who am seeking an internship to further my professional development. Gain experience working on real software development projects by assisting more experienced developers. For my own part, I'm skilled at creating front-end part of software utilizing Javascript, HTML built using the Vue Framework's Composition API, and TailwindCSS to embellish documents. and have knowledge of and expertise with several associated development tools.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a developer, I am motivated. I enjoy creating user interfaces and want to make sure they function the way they are supposed to. who am seeking an internship to further my professional development. Gain experience working on real software development projects by assisting more experienced developers. For my own part, I'm skilled at creating front-end part of software utilizing Javascript, HTML built using the Vue Framework's Composition API, and TailwindCSS to embellish documents. and have knowledge of and expertise with several associated development tools.
 
 <br>
 <div id="header" align="center">
@@ -36,7 +36,7 @@ As a developer, I am motivated. I enjoy creating user interfaces and want to mak
 </div>
 
 ### Contact
-* E-mail :incoming_envelope: : mcmonkung@gmail.com
-* Phone :calling: : 096-316-2681
-* Facebook : [Lemon Surachet](https://web.facebook.com/surachet.pichaiwattanaporn/)
+* E-mail :  [:incoming_envelope:](mcmonkung@gmail.com) mcmonkung@gmail.com
+* Phone : :calling: 096-316-2681
+* Facebook : [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="22" height="21">](https://web.facebook.com/surachet.pichaiwattanaporn/) [Lemon Surachet](https://web.facebook.com/surachet.pichaiwattanaporn/)
 > I'm based in Nakhonpathom, Thailand but now staying in Bangkok for study.
