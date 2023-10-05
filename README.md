@@ -36,7 +36,7 @@
 </div>
 
 ### Contact
-* E-mail :  [:incoming_envelope:](mcmonkung@gmail.com) mcmonkung@gmail.com
+* E-mail :  :incoming_envelope: mcmonkung@gmail.com
 * Phone : :calling: 096-316-2681
 * Facebook : [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="22" height="21">](https://web.facebook.com/surachet.pichaiwattanaporn/) [Lemon Surachet](https://web.facebook.com/surachet.pichaiwattanaporn/)
 > I'm based in Nakhonpathom, Thailand but now staying in Bangkok for study.
