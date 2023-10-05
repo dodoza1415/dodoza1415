@@ -1,14 +1,14 @@
 # Hi! My name is Surachet Pichaiwattanaporn
 ## Internship in Front-end Developer position
 
-<p>As a developer, I am motivated. I enjoy creating user interfaces and want to make sure they function the way they are supposed to. who am seeking an internship to further my professional development. Gain experience working on real software development projects by assisting more experienced developers. For my own part, I'm skilled at creating front-end part of software utilizing Javascript, HTML built using the Vue Framework's Composition API, and TailwindCSS to embellish documents. and have knowledge of and expertise with several associated development tools.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a developer, I am motivated. I enjoy creating user interfaces and want to make sure they function the way they are supposed to. who am seeking an internship to further my professional development. Gain experience working on real software development projects by assisting more experienced developers. For my own part, I'm skilled at creating front-end part of software utilizing Javascript, HTML built using the Vue Framework's Composition API, and TailwindCSS to embellish documents. and have knowledge of and expertise with several associated development tools.
 
 <br>
 <br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" margin="20px"/>
 </div>
-
+<br>
 <br>
 
 
